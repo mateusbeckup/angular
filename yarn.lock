@@ -300,7 +300,6 @@
 
 "@angular/build-tooling@https://github.com/angular/dev-infra-private-build-tooling-builds.git#8a32f9fd9af99832f337db9fe29842797121e96d":
   version "0.0.0-ae9155d1083fd8390e98bfe09a5ccf89f0375b52"
-  uid "8a32f9fd9af99832f337db9fe29842797121e96d"
   resolved "https://github.com/angular/dev-infra-private-build-tooling-builds.git#8a32f9fd9af99832f337db9fe29842797121e96d"
   dependencies:
     "@angular-devkit/build-angular" "17.1.0-rc.1"
@@ -400,7 +399,6 @@
 
 "@angular/docs@https://github.com/angular/dev-infra-private-docs-builds.git#1ff2479610f1f145433b95bbe85f6606e6e975c1":
   version "0.0.0-ae9155d1083fd8390e98bfe09a5ccf89f0375b52"
-  uid "1ff2479610f1f145433b95bbe85f6606e6e975c1"
   resolved "https://github.com/angular/dev-infra-private-docs-builds.git#1ff2479610f1f145433b95bbe85f6606e6e975c1"
   dependencies:
     "@angular/cdk" "17.1.0-rc.0"
@@ -488,7 +486,6 @@
 
 "@angular/ng-dev@https://github.com/angular/dev-infra-private-ng-dev-builds.git#cdbbb64c01e02d4edda03d66fa0919504d8c5dfc":
   version "0.0.0-ae9155d1083fd8390e98bfe09a5ccf89f0375b52"
-  uid cdbbb64c01e02d4edda03d66fa0919504d8c5dfc
   resolved "https://github.com/angular/dev-infra-private-ng-dev-builds.git#cdbbb64c01e02d4edda03d66fa0919504d8c5dfc"
   dependencies:
     "@yarnpkg/lockfile" "^1.1.0"
@@ -4329,10 +4326,10 @@
   dependencies:
     "@types/ws" "*"
 
-"@types/selenium-webdriver@3.0.7":
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/@types/selenium-webdriver/-/selenium-webdriver-3.0.7.tgz#5d3613d1ab3ca08b74d19683a3a7c573129ab18f"
-  integrity sha512-tHdDdGUBKTbiLLwf5mF78EP35F31UZekG+GRNowl8G5rMQoupAT4qWn/7AaGOvmaqvROdqC3Io/hP1ZyO58QkA==
+"@types/selenium-webdriver@3.0.26":
+  version "3.0.26"
+  resolved "https://registry.yarnpkg.com/@types/selenium-webdriver/-/selenium-webdriver-3.0.26.tgz#fc7d87d580affa2e52685b2e881bc201819a5836"
+  integrity sha512-dyIGFKXfUFiwkMfNGn1+F6b80ZjR3uSYv1j6xVJSDlft5waZ2cwkHW4e7zNzvq7hiEackcgvBpmnXZrI1GltPg==
 
 "@types/selenium-webdriver@^3.0.0":
   version "3.0.25"
@@ -14589,6 +14586,7 @@ select-hose@^2.0.0:
   integrity sha512-mEugaLK+YfkijB4fx0e6kImuJdCIt2LxCRcbEYPqRGCs4F2ogyfZU5IAZRdjCP8JPq2AtdNoC/Dux63d9Kiryg==
 
 "selenium-webdriver4@npm:selenium-webdriver@4.16.0", selenium-webdriver@4.16.0:
+  name selenium-webdriver4
   version "4.16.0"
   resolved "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.16.0.tgz#2f1a2426d876aa389d1c937b00f034c2c7808360"
   integrity sha512-IbqpRpfGE7JDGgXHJeWuCqT/tUqnLvZ14csSwt+S8o4nJo3RtQoE9VR4jB47tP/A8ArkYsh/THuMY6kyRP6kuA==
