@@ -10,8 +10,8 @@
   "private": true,
   "dependencies": {
     "@angular/common": "^17.1.0-next",
-    "@angular/compiler": "^17.1.0-next",
-    "@angular/core": "^17.1.0-next",
+    "@angular/compiler": "^19.2.18",
+    "@angular/core": "^19.2.18",
     "@angular/forms": "^17.1.0-next",
     "@angular/platform-browser": "^17.1.0-next",
     "@angular/router": "^17.1.0-next",
